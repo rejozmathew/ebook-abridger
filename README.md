@@ -4,7 +4,7 @@ A Python application to generate abridged versions of EPUB ebooks using Large La
 
 Provides both a Command‑Line Interface (CLI) and a Graphical User Interface (GUI), plus options for cost estimation, summary-length tuning, and error/skipped‑chapter reporting.
 
----
+<img src="screenshots/ebookarch.png" alt="App Architecture" style="width:75%;" />
 
 ## 🚀 Features
 
